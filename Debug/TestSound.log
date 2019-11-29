@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\maitr\source\repos\TestSound\TestSound\main.cpp(188,30): warning C4267:  'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\maitr\source\repos\TestSound\TestSound\main.cpp(232,55): warning C4305:  'argument': truncation from 'unsigned int' to 'uint16_t'
+C:\Users\maitr\source\repos\TestSound\TestSound\main.cpp(232,47): warning C4309:  'argument': truncation of constant value
+C:\Users\maitr\source\repos\TestSound\TestSound\main.cpp(229,11): warning C4101:  'buffer': unreferenced local variable
+C:\Users\maitr\source\repos\TestSound\TestSound\main.cpp(229,11): warning C4101: C:\Users\maitr\source\repos\TestSound\TestSound\main.cpp(169) : warning C4715: 'Socket_Init': not all control paths return a value
+  TestSound.vcxproj -> C:\Users\maitr\source\repos\TestSound\Debug\TestSound.exe
